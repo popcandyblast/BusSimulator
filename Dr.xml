@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <games>
-  <common mimg="https://lh3.googleusercontent.com/5KD1FUM8dJiZUwmleWjVO5bF4fdvqC6Lg22GvrgRU2dJVhKC4vnSWXakp0OLyvGmk0ad409wEXllwrRFl9fuDqA=h640" linkto="market://details?id=com.superhero.crime.rescue.city.flash.game" MgLink="https://popcandyblast.github.io/BusSimulator/index_allgames.html" exitLink="https://popcandyblast.github.io/BusSimulator/Exit.html" onesignal="76092a96-b33c-4ed1-a5ba-1ee21f703f56||891613625949"/>
-
-    <com.superhero.crime.rescue.city.flash.game mimg="https://lh3.googleusercontent.com/5KD1FUM8dJiZUwmleWjVO5bF4fdvqC6Lg22GvrgRU2dJVhKC4vnSWXakp0OLyvGmk0ad409wEXllwrRFl9fuDqA=h640" linkto="market://details?id=com.superhero.crime.rescue.city.flash.game" MgLink="https://popcandyblast.github.io/countersnipershooting/index_allgames.html" exitLink="https://popcandyblast.github.io/countersnipershooting/Exit.html"/>
+  <common MgLink="https://popcandyblast.github.io/BusSimulator/index_allgames.html" exitLink="https://popcandyblast.github.io/BusSimulator/Exit.html" onesignal="76092a96-b33c-4ed1-a5ba-1ee21f703f56||891613625949"/>
    
    </games>
