@@ -13,12 +13,4 @@ RotationType 1->Admob 20>Unity
 <AdIn pages="1_0_0_4_0_6"/>
 <shareLink urlFB="https://play.google.com/store/apps/details?id=com.frkghillclimb.busracingsimulator"/>
 <Notification onesignal="76092a96-b33c-4ed1-a5ba-1ee21f703f56_891613625949"/>
-<!--<moregames 
-mgImgLink1="https://lh3.googleusercontent.com/xvc9_9C18dKDE0l16jb-BDAYjH6ktZmTyYH_5dfI231S8OCutQ84hMC6sYasXOzproAF=s180-rw" mgLinkto1="market://details?id=com.superhero.crime.rescue.city.flash.game"
-mgImgLink2="https://lh3.googleusercontent.com/xvc9_9C18dKDE0l16jb-BDAYjH6ktZmTyYH_5dfI231S8OCutQ84hMC6sYasXOzproAF=s180-rw" mgLinkto2="market://details?id=com.superhero.crime.rescue.city.flash.game"
-mgImgLink3="https://lh3.googleusercontent.com/xvc9_9C18dKDE0l16jb-BDAYjH6ktZmTyYH_5dfI231S8OCutQ84hMC6sYasXOzproAF=s180-rw" mgLinkto3="market://details?id=com.superhero.crime.rescue.city.flash.game"
-mgImgLink4="https://lh3.googleusercontent.com/xvc9_9C18dKDE0l16jb-BDAYjH6ktZmTyYH_5dfI231S8OCutQ84hMC6sYasXOzproAF=s180-rw" mgLinkto4="market://details?id=com.superhero.crime.rescue.city.flash.game"
-mgImgLink5="https://lh3.googleusercontent.com/xvc9_9C18dKDE0l16jb-BDAYjH6ktZmTyYH_5dfI231S8OCutQ84hMC6sYasXOzproAF=s180-rw" mgLinkto5="market://details?id=com.superhero.crime.rescue.city.flash.game"
-/>-->
-/>
 </GameData>
